@@ -1,2 +1,1 @@
-"# jQueryGalery" 
 "# homeTask" 
